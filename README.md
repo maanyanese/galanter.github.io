@@ -5,7 +5,7 @@
 
 1. Tambahkan button di login.html
 ```html
-<button onclick="window.location='https://galanter.github.io/myqr';">QR Code</button>
+<button onclick="window.location='https://galanter.github.io/scan';">QR Code</button>
 ```
 2. Tambahkan script berikut di MikroTik via Terminal.
 ```
